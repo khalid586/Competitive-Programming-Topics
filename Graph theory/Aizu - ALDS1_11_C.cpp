@@ -8,7 +8,7 @@ using namespace std;
 const int N = 107;
 const int MX = 1e6;
 std::vector<int> graph[N];
-vector<int> lvl(N,MX);
+vector<int> lvl(N, -1);
 
 void FastIO(){
      #ifndef ONLINE_JUDGE
@@ -30,7 +30,7 @@ void bfs(){
           q.pop();
 
           for(auto v:graph[u]){
-               if(lvl[v] > lvl[u]){
+               if(lvl[v] == -1){
                     q.push(v);
                     lvl[v] = currLvl + 1;   
                } 
@@ -57,7 +57,6 @@ void solve(int t){
      bfs();
 
      rep(i,1,n+1){
-          if(lvl[i] == MX) lvl[i] = -1;
           cout << i << ' ' << lvl[i] << endl;
      }
 }
