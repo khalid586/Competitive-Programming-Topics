@@ -48,7 +48,7 @@ void solve(int t){
                          ++cntOfTheprime;
                          n /= primes[i];
                     }
-                    sum *= cntOfTheprime+1;
+                    sum *= cn+1;
           }
           
           if(n != 1) sum *= 2; // it means there is another divisor which will be multiplied by each of the other divisors
