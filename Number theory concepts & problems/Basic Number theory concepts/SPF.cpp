@@ -30,24 +30,26 @@ void SPF(){
           for(int j = i * i ; j <= N ; j+=i)
                spf[j] = min(spf[j] , i);
 }
-
+int lpf[10000000 + 7];
 void solve(int t){
-     while(1){
-          int n;
-          cin >> n;
-          if(n == 0) break;
+     int n;
+     cin >> n;
+     int num = n;
 
-          int nn = n;
-          vector<int> ans;
-          while(nn > 1){
-               ans.push_back(spf[nn]);
-               nn /= spf[nn];
-          }
-
-          cout << n << " : " ;
-          for(auto x:ans) cout << x << ' ';
-          cout << "\n"; 
+     vector<int> ans;
+     while(n > 1){
+          ans.push_back(spf[n]);
+          n /= spf[n];
      }
+
+     lpf[num] = ans[ans.size() - 1];
+     
+     cout << num << " : " ;
+     for(auto x:ans) cout << x << ' ';
+     cout << "\n"; 
+
+     cout << "lpf of n is : " << lpf[num];
+     
 }
 
 int32_t main()
