@@ -38,8 +38,8 @@ typedef vector<ll> ::iterator vita;
 void debugMode()
 {
     #ifndef ONLINE_JUDGE
-    freopen("in.txt","r",stdin);
-    freopen("out.txt","w",stdout);
+    	freopen("in.txt","r",stdin);
+    	freopen("out.txt","w",stdout);
     #endif // ONLINE_JUDGE
 }
 
@@ -55,15 +55,10 @@ void solve()
 	{
 		in(a[i])
 		count+=m[a[i]-i];
-			m[a[i]-i]++;
-
-	}
-	
-
+		m[a[i]-i]++;
+	}	
 
 	out(count)
-
-
 }
 
 
@@ -75,8 +70,9 @@ immortal_slave
      ll t=1;
      in(t)
 
-      while(t--)
-        solve();
+     while(t--){
+            solve();
+     }
 
      return 0;
 
