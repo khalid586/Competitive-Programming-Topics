@@ -21,7 +21,7 @@ void IO()
 #define all(x) x.begin(),x.end()
 const int N = 1e7 + 9;
 
-void solve(int t){
+void solve(int t){ // problem solved :)
      int n; cin >> n;
      map<int,int> cnt;
      rep(i,0,n){ int x; cin >> x; cnt[x]++;}
