@@ -5,6 +5,7 @@ using namespace std;
 
 #define rep(i,a,b) for(int i = a ; i < b ; i++)
 #define endl '\n'
+
 void IO()
 {
      #ifndef ONLINE_JUDGE
