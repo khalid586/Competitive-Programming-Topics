@@ -10,6 +10,8 @@ const int INF = 1e12+10;
 vector< pair<int,int> > graph[N];
 vector<int> dist(N,INF);
 vector<int> path(N,0);
+bool vis[N];
+
 void dijkstra()
 {
 	set<pair<int,int>> q;
@@ -19,6 +21,9 @@ void dijkstra()
 		while(!q.empty()){
 				int curr_dist=(*q.begin()).first , curr_edge = (*q.begin()).second; 
 				q.erase(*q.begin());
+
+				if(vis[curr_edge]) continue;
+				vis[curr_edge] = 1;
 				for(auto child:graph[curr_edge]){
 							int child_edge = child.second , child_dist = child.first;
 							
