@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
  
+
 #define int long long
  
 //Starting in the name of Allah(THE ALMIGHTY)
