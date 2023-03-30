@@ -43,11 +43,10 @@ void bfs(){
                int X = x + dx[i]; int Y = y + dy[i];
           
                if(isValid(X,Y)){
-                         if(!vis[X][Y]){q.push({X,Y}); vis[X][Y] = 1;}
-                         
                          if(grid[X][Y] == '.'){
                               score[X][Y] += score[x][y] ;
                               score[X][Y] %= MOD;
+                              if(!vis[X][Y] ){q.push({X,Y}); vis[X][Y] = 1;}
                          }
                }
           }
@@ -70,4 +69,5 @@ int32_t main()
 
      return 0;
 }
+
 
