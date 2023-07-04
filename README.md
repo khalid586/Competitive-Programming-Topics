@@ -1,1 +1,1 @@
-# This repository contains problem solutions of different programming topics.
+# This repository contains all (almost) the common topics found in the field competitive programming . I have tried to combine all my practiced problems in this repository.
