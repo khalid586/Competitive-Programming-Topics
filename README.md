@@ -1,4 +1,4 @@
-**This repository contains the most common topics found in competitive programming contests. I have tried to combine some of my practiced problems in this repository according to topics. Feel free to check them out.**
+**This repository contains some of the most common topics found in competitive programming contests. I have tried to combine some of my practiced problems in this repository according to topics. Feel free to check them out.**
 
 
 **The topics that are coverd in this repo are:**
@@ -7,6 +7,7 @@
 <summary> 
 <b>Graph Theory</b>
 </summary>
+
 
 <p align = "center"> <b>Concepts</b> </p>
 
@@ -39,6 +40,26 @@
 
 <p align = "center"> <b>Problems</b> </p>
 
+<details>
+<summary> 
+<b>Topological Sort</b>
+</summary>
+
+1. [CSES Course Schedule](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Topological%20sort/CSES%20Course%20Schedule.cpp)
+
+1. [UVA10305 OrderingTasks(BFS used)](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Topological%20sort/UVA10305%20OrderingTasks%5BBFS%20used%5D.cpp)
+
+1. [UVa 10305 order Tasks(DFS used)](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Topological%20sort/UVa%2010305%20order%20Tasks%5BDFS%20used%5D.cpp)
+
+1. [UVa 11504 dominos](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Topological%20sort/UVa%2011504%20dominos.cpp)
+
+1. [UVa 872 ordering.cpp](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Topological%20sort/UVa%20872%20ordering.cpp)
+
+</details>
+
+<details>
+<summary><b>CSES,Toph,LightOj problems</b></summary>
+
 1. [CSES Building Roads_1666(connected components)](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/CSES%20Building%20Roads_1666%5Bconnected%20components%5D.cpp)
 
 1. [CSES Building Teams_1668](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/CSES%20Building%20Teams_1668.cpp)
@@ -57,7 +78,9 @@
 
 </details>
 
+</details>
 
+<br>
 
 <details>
 <summary> 
@@ -66,15 +89,18 @@
 
 <p align = "center"> <b>Concepts</b> </p>
 
-[1. Generate all permutations](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Backtracking/Concepts/Generate%20all%20permutations.cpp)
+1. [Generate all permutations](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Backtracking/Concepts/Generate%20all%20permutations.cpp)
 
 <p align = "center"> <b>Problems</b> </p>
 
-[1. CSES creating strings](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Backtracking/Problems/CSES%20creating%20strings.cpp)
+1. [CSES creating strings](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Backtracking/Problems/CSES%20creating%20strings.cpp)
 </details>
 
 
 <!--
+
+Graph theory folders to be uploaded. 
+
 2. Dynamic programming
 3. Graph theory
 4. Math concepts & problems
