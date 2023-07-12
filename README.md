@@ -47,9 +47,9 @@ The topics that are coverd in this repo are (click on the topic name)
 
 1. [Aizu - ALDS1_11_C](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20-%20ALDS1_11_C.cpp)
 
-1. [/Aizu ALDS1_11_A.cpp](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20ALDS1_11_A.cpp)
+1. [Aizu ALDS1_11_A.cpp](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20ALDS1_11_A.cpp)
 
-1. [/Aizu ALDS1_11_B.cpp](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20ALDS1_11_B.cpp)
+1. [Aizu ALDS1_11_B.cpp](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20ALDS1_11_B.cpp)
 
 </details>
 
