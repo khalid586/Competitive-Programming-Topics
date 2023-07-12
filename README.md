@@ -1,4 +1,4 @@
-This repository contains some of the most common topics found in competitive programming contests. I have tried to combine some of my practiced problems in this repository according to topics. Feel free to check them out.
+This repository contains <del>all the topics</del> some of the most common topics found in  <img src = "asset/images.png" width = "15px" height = "10px"> competitive programming contests. I have tried to combine some of my practiced problems in this repository according to <b>Topics</b>. Feel free to check them out.😉
 
 
 The topics that are coverd in this repo are (click on the topic name)
