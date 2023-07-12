@@ -1,7 +1,7 @@
-**This repository contains some of the most common topics found in competitive programming contests. I have tried to combine some of my practiced problems in this repository according to topics. Feel free to check them out.**
+This repository contains some of the most common topics found in competitive programming contests. I have tried to combine some of my practiced problems in this repository according to topics. Feel free to check them out.
 
 
-**The topics that are coverd in this repo are:**
+The topics that are coverd in this repo are (click on the topic name)
 
 <details>
 <summary> 
