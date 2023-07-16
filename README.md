@@ -1,7 +1,8 @@
 This repository contains <del>all the topics</del> some of the most common topics found in  <img src = "asset/images.png" width = "25px" height = "15px"> competitive programming contests. I have tried to combine some of my practiced problems in this repository according to <b>Topics</b>. Feel free to check them out.😉
 
 
-The topics that are coverd in this repo are (click on the topic name)
+<h3>CLICK on the Topic Names below </h3>
+<img width = "100px" align = "center" src = "https://cdn.dribbble.com/users/729829/screenshots/3975065/media/af0e87e1f3254324eeb80e489403c445.gif"> <br> <br>
 
 <details>
 <summary> 
