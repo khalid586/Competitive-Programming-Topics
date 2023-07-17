@@ -211,9 +211,30 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 </details>
 
+<br>
+
+<details>
+<summary> 
+<b>Number theory</b>
+</summary>
+
+<p align = "center"> <b>Concepts</b> </p>
+
+1. [BigMod](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Basic%20Number%20theory%20concepts/BigMod.cpp)
+1. [Number of Divisors of N using prime factorization](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Basic%20Number%20theory%20concepts/Number%20of%20Divisors%20of%20N%20using%20prime%20factorization.cpp)
+1. [Smallest Prime Factor](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Basic%20Number%20theory%20concepts/SPF.cpp)
+
+<p align = "center"> <b>Problems</b> </p>
+
+1. []()
+
+</details>
+
+<br>
+
 <!--
 
-4. Math concepts & problems
+
 5. Number theory
 6. prefix sum
 7. Segment tree
