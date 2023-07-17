@@ -226,7 +226,27 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <p align = "center"> <b>Problems</b> </p>
 
+1. [A Missing Factor Gym - 310911K](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/A%20Missing%20Factor%20Gym%20-%20310911K.cpp)
+1. [Again Prime No Time. UVA - 10780](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/Again%20Prime%20No%20Time.%20UVA%20-%2010780.cpp)
+1. [CF 1051B Relatively Prime Pairs](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/CF%201051B%20Relatively%20Prime%20Pairs.cpp)
+1. [CF Gym - 310911G](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/CF%20Gym%20-%20310911G.cpp)
 1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+
 
 </details>
 
