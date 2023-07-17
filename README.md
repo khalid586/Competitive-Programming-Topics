@@ -262,7 +262,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 
 <details>
-<summary> <b></b> </summary>
+<summary> <b>Segment Tree</b> </summary>
 
 <p align = "center"> <b>Concepts</b> </p>
 
