@@ -171,9 +171,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 <br>
 
 <details>
-<summary> 
-<b>Backtracking</b>
-</summary>
+<summary> <b>Backtracking</b> </summary>
 
 <p align = "center"> <b>Concepts</b> </p>
 
@@ -252,10 +250,17 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <br>
 
+<details>
+<summary> <b>Prefix sum</b> </summary>
+
+<p align = "center"> <b>Problems</b> </p>
+
+1. [CSES Static Range Sum Queries](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Prefix%20sum/CSES%20Static%20Range%20Sum%20Queries.cpp)
+</details>
+
 <!--
 
 
-5. Number theory
 6. prefix sum
 7. Segment tree
 8. Sorting and Searching
