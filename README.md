@@ -239,13 +239,13 @@ This repository contains <del>all the topics</del> some of the most common topic
 1. [Goldbach's Conjecture LightOJ - 1259](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/Goldbach's%20Conjecture%20LightOJ%20-%201259%20.cpp)
 1. [Iftar Party LightOJ - 1014](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/Iftar%20Party%20LightOJ%20-%201014.cpp)
 1. [Intelligent Factorial Factorization LightOJ - 1035](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/Intelligent%20Factorial%20Factorization%20LightOJ%20-%201035.cpp)
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
-1. []()
+1. [SPOJ - TDPRIMES](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/SPOJ%20-%20TDPRIMES.cpp)
+1. [Trailing Zeroes (I) LightOJ - 1028](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/Trailing%20Zeroes%20(I)%20LightOJ%20-%201028.cpp)
+1. [Twin Primes UVA - 10394](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/Twin%20Primes%20UVA%20-%2010394.cpp)
+1. [UVa 374](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/UVa%20374.cpp)
+1. [UVa12856 - Counting substhreengs](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/UVa12856%20-%20Counting%20substhreengs.cpp.cpp)
+1. [Uva 136 Ugly numbers](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/Uva%20136%20Ugly%20numbers.cpp)
+1. [spf_lpf_divisors](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Number%20Theory/Problems/spf_lpf_divisors.cpp)
 
 
 </details>
