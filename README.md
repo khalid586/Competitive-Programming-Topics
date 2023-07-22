@@ -285,6 +285,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <p align = "center"> <b>Problems</b> </p>
 
+
 1. [CSES Collecting Numbers](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/CSES%20Collecting%20Numbers.cpp)
 1. [CSES Maximum Subarray Sum](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/CSES%20Maximum%20Subarray%20Sum.cpp)
 1. [CSES Movie Festival](https://github.com/khalid586/CSES-Problemset-solutions/blob/main/2.Sorting%20and%20Searching/CSES%20Movie%20Festival.cpp)
@@ -298,9 +299,16 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 </details>
 
-<!--
+<br>
+
+<details>
+<summary> <b>Probabilities</b> </summary>
+
+<p align = "center"> <b>Problems</b> </p>
 
 
-8. Sorting and Searching
+1. Problem  -> [CF 312B](https://codeforces.com/problemset/problem/312/B)  <br>
+   Solution -> [Github](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Probabilities/CF%20312B.cpp)
 
--->
+
+</details>
