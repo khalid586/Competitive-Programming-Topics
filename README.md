@@ -255,9 +255,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <p align = "center"> <b>Problems</b> </p>
 
-1. [Problem - Static Range Queries](https://cses.fi/problemset/task/1646) <br>
-   [Solution - Static Range Queries](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Prefix%20sum/CSES%20Static%20Range%20Sum%20Queries.cpp)
-
+1. [CSES Static Range Sum Queries](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Prefix%20sum/CSES%20Static%20Range%20Sum%20Queries.cpp)
 </details>
 
 <br>
