@@ -1,12 +1,12 @@
 This repository contains <del>all the topics</del> some of the most common topics found in  <img src = "asset/images.png" width = "25px" height = "15px"> competitive programming contests. I have tried to combine some of my practiced problems in this repository according to <b>Topics</b>. Feel free to check them out.😉
 
 
-<img align = "center" src = "https://img.shields.io/badge/Click-%23E60023.svg?"> on the Topic Names below 
-<br> <br>
+<h3>CLICK on the Topic Names below </h3>
+<img width = "100px" align = "center" src = "https://cdn.dribbble.com/users/729829/screenshots/3975065/media/af0e87e1f3254324eeb80e489403c445.gif"> <br> <br>
 
 <details>
 <summary> 
-<b><img align = "center" src = "https://img.shields.io/badge/Graph Theory-%23E60023.svg?"></b>
+<b>Graph Theory</b>
 </summary>
 
 
@@ -43,7 +43,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <details>
 <summary> 
-<b><img align = "center" src = "https://img.shields.io/badge/BFS & DFS traversal-%23Clojure.svg?"></b>
+<b>BFS & DFS traversal</b>
 </summary>
 
 1. [Aizu - ALDS1_11_C](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20-%20ALDS1_11_C.cpp)
@@ -56,7 +56,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <details>
 <summary> 
-<b><img align = "center" src = "https://img.shields.io/badge/Bipartite graph checking-%23Clojure.svg?"></b>
+<b>Bipartite graph checking</b>
 </summary>
 
 1. [CodeForces 862B_Mahmoud and Ehab and the bipartiteness](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Bipartite%20graph%20checking/CodeForces%20862B_Mahmoud%20and%20Ehab%20and%20the%20bipartiteness.cpp)
@@ -69,7 +69,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <details>
 <summary> 
-<b> <img align = "center" src = "https://img.shields.io/badge/Connected Components-%23Clojure.svg?"></b>
+<b>Connected Components</b>
 </summary>
 
 1. [UVa 459 - Graph Connectivity](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Connected%20components/UVa%20459%20-%20Graph%20Connectivity.cpp)
@@ -78,7 +78,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <details>
 <summary> 
-<b> <img align = "center" src = "https://img.shields.io/badge/Grid Problems-%23Clojure.svg?"></b>
+<b>Grid Problems</b>
 </summary>
 
 1. [CSES Labyrinth](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Grid%20problems/CSES%20Labyrinth.cpp)
@@ -101,7 +101,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <details>
 <summary> 
-<b> <img align = "center" src = "https://img.shields.io/badge/Topological Sort-%23Clojure.svg?"></b>
+<b>Topological Sort</b>
 </summary>
 
 1. [CSES Course Schedule](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Topological%20sort/CSES%20Course%20Schedule.cpp)
@@ -117,7 +117,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 </details>
 
 <details>
-<summary><b> <img align = "center" src = "https://img.shields.io/badge/CSES,Toph,LightOj problems-%23Clojure.svg?"></b></summary>
+<summary><b>CSES,Toph,LightOj problems</b></summary>
 
 1. [CSES Building Roads_1666(connected components)](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/CSES%20Building%20Roads_1666%5Bconnected%20components%5D.cpp)
 
@@ -143,7 +143,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <details>
 <summary> 
-<b><img align = "center" src = "https://img.shields.io/badge/Dynamic Programming-%23E60023.svg?"></b>
+<b>Dynamic Programming</b>
 </summary>
 
 <p align = "center"> <b>Problems</b> </p>
@@ -171,7 +171,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 <br>
 
 <details>
-<summary> <b><img align = "center" src = "https://img.shields.io/badge/Backtracking-%23E60023.svg?"></b> </summary>
+<summary> <b>Backtracking</b> </summary>
 
 <p align = "center"> <b>Concepts</b> </p>
 
@@ -185,7 +185,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 <br>
 
 <details>
-<summary> <b> <img align = "center" src = "https://img.shields.io/badge/Mathematics-%23E60023.svg?"></b> </summary>
+<summary> <b>Mathematics</b> </summary>
 
 <p align = "center"> <b>Concepts</b> </p>
 
@@ -213,7 +213,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 <details>
 <summary> 
-<b> <img align = "center" src = "https://img.shields.io/badge/Number theory-%23E60023.svg?"></b>
+<b>Number theory</b>
 </summary>
 
 <p align = "center"> <b>Concepts</b> </p>
@@ -251,7 +251,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 <br>
 
 <details>
-<summary> <b><img align = "center" src = "https://img.shields.io/badge/Prefix sum-%23E60023.svg?"></b> </summary>
+<summary> <b>Prefix sum</b> </summary>
 
 <p align = "center"> <b>Problems</b> </p>
 
@@ -264,7 +264,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 
 
 <details>
-<summary> <b><img align = "center" src = "https://img.shields.io/badge/Segment Tree -%23E60023.svg?"></b> </summary>
+<summary> <b>Segment Tree</b> </summary>
 
 <p align = "center"> <b>Concepts</b> </p>
 
@@ -283,7 +283,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 <br>
 
 <details>
-<summary> <b><img align = "center" src = "https://img.shields.io/badge/Sorting and Searching-%23E60023.svg?"></b> </summary>
+<summary> <b>Sorting and Searching</b> </summary>
 
 <p align = "center"> <b>Problems</b> </p>
 
@@ -304,7 +304,7 @@ This repository contains <del>all the topics</del> some of the most common topic
 <br>
 
 <details>
-<summary> <b><img align = "center" src = "https://img.shields.io/badge/Probabilities-%23E60023.svg?"></b> </summary>
+<summary> <b>Probabilities</b> </summary>
 
 <p align = "center"> <b>Problems</b> </p>
 
