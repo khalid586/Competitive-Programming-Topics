@@ -46,11 +46,11 @@ This repository contains <del>all the topics</del> some of the most common topic
 <b>BFS & DFS traversal</b>
 </summary>
 
-1. [Aizu - ALDS1_11_C](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20-%20ALDS1_11_C.cpp)
+1. [Problem - Aizu - ALDS1_11_C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C) <br> [Solution - Aizu - ALDS1_11_C](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20-%20ALDS1_11_C.cpp)
 
-1. [Aizu ALDS1_11_A.cpp](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20ALDS1_11_A.cpp)
+1. [Problem - Aizu ALDS1_11_A](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_11_A)[Solution - Aizu ALDS1_11_A.cpp ](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20ALDS1_11_A.cpp)
 
-1. [Aizu ALDS1_11_B.cpp](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20ALDS1_11_B.cpp)
+1. [Problem - Aizu ALDS1_11_B](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_11_B)[Solution - Aizu ALDS1_11_B.cpp](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20ALDS1_11_B.cpp)
 
 </details>
 
