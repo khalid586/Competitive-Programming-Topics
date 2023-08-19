@@ -59,11 +59,11 @@ This repository contains <del>all the topics</del> some of the most common topic
 <b>Bipartite graph checking</b>
 </summary>
 
-1. [CodeForces 862B_Mahmoud and Ehab and the bipartiteness](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Bipartite%20graph%20checking/CodeForces%20862B_Mahmoud%20and%20Ehab%20and%20the%20bipartiteness.cpp)
+1. [Problem - CodeForces 862B_Mahmoud and Ehab and the bipartiteness](https://codeforces.com/problemset/problem/862/B)[Solution - CodeForces 862B_Mahmoud and Ehab and the bipartiteness](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Bipartite%20graph%20checking/CodeForces%20862B_Mahmoud%20and%20Ehab%20and%20the%20bipartiteness.cpp)
 
-1. [SPOJ A Bug's life](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Bipartite%20graph%20checking/SPOJ%20A%20Bug's%20life.cpp)
+1. [Problem - SPOJ A Bug's life](https://www.spoj.com/problems/BUGLIFE/)[Solution - SPOJ A Bug's life](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Bipartite%20graph%20checking/SPOJ%20A%20Bug's%20life.cpp)
 
-1. [UVA_10004_Bicoloring](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Bipartite%20graph%20checking/UVA_10004_Bicoloring.cpp)
+1. [Problem - UVA_10004_Bicoloring](https://onlinejudge.org/external/100/10004.pdf)[Solution - UVA_10004_Bicoloring](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/Bipartite%20graph%20checking/UVA_10004_Bicoloring.cpp)
 
 </details>
 
