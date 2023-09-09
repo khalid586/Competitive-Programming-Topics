@@ -1,4 +1,5 @@
-<img  align = "right" alt="Coding" width="800px" height="250px" src="https://cdn.dribbble.com/users/1959912/screenshots/6463995/competition_dribbble.gif">
+<img alt="Coding" width="800px" height="250px" src="https://cdn.dribbble.com/users/1959912/screenshots/6463995/competition_dribbble.gif">
+<br>
 <br>
 
 # <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Introduction
@@ -10,7 +11,7 @@
 
 **Feel free to check them out. 😉**
 
-# <img src = "https://cdn.dribbble.com/users/2206859/screenshots/4955676/hotel_dribble1.gif" align = "center" width = "60px" height = "40px"> Topics
+# <img src = "https://cdn.dribbble.com/users/2493316/screenshots/14030448/media/8b87a18633c28586e4a315bcdaab031b.gif" align = "center" width = "60px" height = "40px"> Topics
 
 <p align = "center"><img width = "40px" height = "25px" align = "center" src = "https://cdn.dribbble.com/users/729829/screenshots/3975065/media/af0e87e1f3254324eeb80e489403c445.gif"><b> CLICK</b> <small>on the Topic Names below </small></p>
 
