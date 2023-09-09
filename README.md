@@ -1,5 +1,6 @@
 # Introduction
 - **This repository contains <del>all the topics</del> some of the most common topics found in  <img src = "asset/images.png" width = "30px" height = "20px" align = "center"> competitive programming contests.** 
+
 - **I have tried to combine some of my practiced problems in this repository according to <b>Topics</b>.** 
 
 <br>
