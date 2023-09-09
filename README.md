@@ -1,5 +1,10 @@
 # Introduction
-- **This repository contains <del>all the topics</del> some of the most common topics found in  <img src = "asset/images.png" width = "30px" height = "20px" align = "center"> competitive programming contests. I have tried to combine some of my practiced problems in this repository according to <b>Topics</b>. Feel free to check them out.😉**
+- **This repository contains <del>all the topics</del> some of the most common topics found in  <img src = "asset/images.png" width = "30px" height = "20px" align = "center"> competitive programming contests.** 
+- **I have tried to combine some of my practiced problems in this repository according to <b>Topics</b>.** 
+
+<br>
+
+**Feel free to check them out. 😉**
 
 <h3><img width = "50px" align = "center" src = "https://cdn.dribbble.com/users/729829/screenshots/3975065/media/af0e87e1f3254324eeb80e489403c445.gif"><b> CLICK</b> <small>on the Topic Names below </small></h3>
 
