@@ -1,4 +1,4 @@
-# Introduction
+# <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Introduction
 - **This repository contains <del>all the topics</del> some of the most common topics found in  <img src = "asset/images.png" width = "30px" height = "20px" align = "center"> competitive programming contests.** 
 
 - **I have tried to combine some of my practiced problems in this repository according to <b>Topics</b>.** 
@@ -7,7 +7,9 @@
 
 **Feel free to check them out. 😉**
 
-<h3><img width = "50px" align = "center" src = "https://cdn.dribbble.com/users/729829/screenshots/3975065/media/af0e87e1f3254324eeb80e489403c445.gif"><b> CLICK</b> <small>on the Topic Names below </small></h3>
+# <img src = "https://cdn.dribbble.com/users/2206859/screenshots/4955676/hotel_dribble1.gif" align = "center" width = "60px" height = "40px"> Topics
+
+<p align = "center"><img width = "40px" height = "25px" align = "center" src = "https://cdn.dribbble.com/users/729829/screenshots/3975065/media/af0e87e1f3254324eeb80e489403c445.gif"><b> CLICK</b> <small>on the Topic Names below </small></p>
 
 <details>
 <summary> 
