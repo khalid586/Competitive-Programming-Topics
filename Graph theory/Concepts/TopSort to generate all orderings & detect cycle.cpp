@@ -57,7 +57,10 @@ void topologicalSort() {
           cout << "NO\n"; return;
      }
      for(auto x:answer){
-          for(int i = 0 ; i < x.size() ; i++){ char ch = x[i] + 'A'; cout <<  ch  << (i == x.size() - 1 ? "\n":" "); }
+          for(int i = 0 ; i < x.size() ; i++){ 
+              char ch = x[i] + 'A'; 
+              cout <<  ch  << (i == x.size() - 1 ? "\n":" ");
+          }
      }
 }
 void solve(){
