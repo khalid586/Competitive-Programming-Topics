@@ -24,29 +24,16 @@
 <p align = "center"> <b>Concepts</b> </p>
 
 1. [BFS](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/BFS_.cpp)
-
 1. [BFS traversal[Level of a tree]](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/BFS%20traversal%5BLevel%20of%20a%20tree%5D.cpp)
-
 1. [DFS](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/DFS.cpp)
-
 1. [Bipartite Graph checking](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/Bipartite%20Graph%20checking.cpp)
-
 1. [Cycle detection of undirected graph and printing the cycle](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/Cycle%20detection%20of%20undirected%20graph%20and%20printing%20the%20cycle.cpp)
-
 1. [Cycle detection on DAG[using BFS]](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/Cycle%20detection%20on%20DAG%5Busing%20BFS%5D.cpp)
-
 1. [Finding all paths(starting from 1) in an undirected graph](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/Finding%20all%20paths(starting%20from%201)%20in%20an%20undirected%20graph.cpp)
-
-
-
 1. [TopSort to generate all orderings & detect cycle](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/TopSort%20to%20generate%20all%20orderings%20%26%20detect%20cycle.cpp)
-
 1. [TopSort](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/TopSort.cpp)
-
 1. [TopSort[BFS (kahn's algo)]](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/TopSort%5BBFS%20(kahn's%20algo)%5D.cpp)
-
 1. [Dijkstra](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/dijkstra.cpp)
-
 1. [Dijkstra (using set)](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Concepts/dijkstra%20%5B%20using%20set%5D.cpp)
 
 
@@ -58,9 +45,7 @@
 </summary>
 
 1. [Problem - Aizu - ALDS1_11_C](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C) <br> [Solution - Aizu - ALDS1_11_C](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20-%20ALDS1_11_C.cpp)
-
 1. [Problem - Aizu ALDS1_11_A](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_11_A)[Solution - Aizu ALDS1_11_A.cpp ](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20ALDS1_11_A.cpp)
-
 1. [Problem - Aizu ALDS1_11_B](https://onlinejudge.u-aizu.ac.jp/problems/ALDS1_11_B)[Solution - Aizu ALDS1_11_B.cpp](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Graph%20theory/Problems/BFS%20%26%20DFS%20traversal/Aizu%20ALDS1_11_B.cpp)
 
 </details>
