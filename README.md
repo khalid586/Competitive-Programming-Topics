@@ -1,4 +1,4 @@
-<img alt="Coding" width="800px" height="400px" src="assets/cp banner.jpeg">
+<img alt="Coding" src="assets/cp banner.jpeg">
 
 
 # <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Introduction
