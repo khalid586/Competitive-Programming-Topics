@@ -18,12 +18,12 @@
 
 |_______|Topic Name|Tutorial|
 |--|----------|--------|
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Graph Theory**]()|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Dynamic Programming**]()|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Backtracking**]()|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Mathematics**]()|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Number theory**]()|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Prefix sum**]()|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Segment Tree**]()|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Sorting & Searching**]()|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Probabilities**]()|    |
+| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Graph Theory**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Graph%20theory)|    |
+| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Dynamic Programming**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Dynamic%20programming)|    |
+| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Backtracking**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Backtracking)|    |
+| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Mathematics**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Mathematics)|    |
+| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Number theory**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Number%20Theory)|    |
+| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Prefix sum**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Prefix%20sum)|    |
+| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Segment Tree**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Segment%20tree)|    |
+| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Sorting & Searching**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Sorting%20and%20Searching)|    |
+| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Probabilities**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Probabilities)|    |
