@@ -6,7 +6,7 @@
 
 <br>
 
-> <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "50px" height = "40px"> **This repository contains <del>all the topics</del> some of the most common topics found in <img src = "assets/mix.png" align = "center" width = "33px" height = "25px"> Competitive Programming contests.**
+> <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "40px" height = "30px"> **This repository contains <del>all the topics</del> some of the most common topics found in <img src = "assets/mix.png" align = "center" width = "33px" height = "25px"> Competitive Programming contests.**
 
 > **I have combined some of my practiced problems in this repository according to <b>Topics</b>.**
 **Feel free to check them out. 😉**
@@ -14,7 +14,7 @@
 <br>
 
 
-# <img src = "assets/mix.png" align = "center" width = "60px" height = "40px"> Topics
+# <img src = "assets/cp banner.jpeg" align = "center" width = "60px" height = "40px"> Topics
 
 |_______|Topic Name|Tutorial|
 |--|----------|--------|
