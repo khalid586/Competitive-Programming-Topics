@@ -14,7 +14,7 @@
 <br>
 
 
-# <img src = "assets/cp banner.jpeg" align = "center" width = "60px" height = "40px"> Topics
+## <img src = "assets/cp banner.jpeg" align = "center" width = "60px" height = "40px"> Topics
 
 |_______|Topic Name|Tutorial|
 |--|----------|--------|
