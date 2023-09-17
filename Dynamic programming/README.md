@@ -1,6 +1,6 @@
 ![](assets/cp%20banner.jpeg)
 
-> **Solutions**
+> **Problems & Solutions**
 
 |No|________|Problem|Solution|
 |-|-|-|-|
