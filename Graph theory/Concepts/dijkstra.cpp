@@ -18,22 +18,23 @@ void dijkstra()
 	q.insert({0,1}); 
 	dist[1] = 0;
 
-		while(!q.empty()){
-				int curr_dist=(*q.begin()).first , curr_edge = (*q.begin()).second; 
-				q.erase(*q.begin());
+	while(!q.empty()){
+			int curr_dist=(*q.begin()).first , curr_edge = (*q.begin()).second; 
+			q.erase(*q.begin());
 
-				if(vis[curr_edge]) continue;
-				vis[curr_edge] = 1;
-				for(auto child:graph[curr_edge]){
-							int child_edge = child.second , child_dist = child.first;
-							
-							if( curr_dist + child_dist < dist[child_edge]){
-								dist[child_edge] = curr_dist + child_dist;
-								q.insert({dist[child_edge],child_edge});
-								path[child_edge] = curr_edge;	
-							}
-				}		
-	  }
+			if(vis[curr_edge]) continue;
+			vis[curr_edge] = 1;
+			
+			for(auto child:graph[curr_edge]){
+						int child_edge = child.second , child_dist = child.first;
+						
+						if( curr_dist + child_dist < dist[child_edge]){
+							dist[child_edge] = curr_dist + child_dist;
+							q.insert({dist[child_edge],child_edge});
+							path[child_edge] = curr_edge;	
+						}
+			}		
+	}
 }
 
 void print(int node){
