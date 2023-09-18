@@ -48,12 +48,6 @@ void print(int node){
 
 int32_t main()
 {
-	     #ifndef ONLINE_JUDGE
-          freopen("in.txt","r", stdin);
-      //   freopen("out.txt", "w", stdout);
-          freopen("Error.txt", "w", stderr);
-     #endif // ONLINE_JUDGE
-
 	int node,edges; cin >> node  >> edges;
 	
 	for(int i=0;i<edges;i++)
