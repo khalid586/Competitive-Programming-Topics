@@ -16,14 +16,14 @@
 
 ## <img src = "assets/cp banner.jpeg" align = "center" width = "60px" height = "40px"> Topics
 
-|_______|Topic Name|Tutorial|
-|--|----------|--------|
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Graph Theory**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Graph%20theory)|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Dynamic Programming**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Dynamic%20programming)|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Backtracking**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Backtracking)|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Mathematics**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Mathematics)|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Number theory**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Number%20Theory)|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Prefix sum**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Prefix%20sum)|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Segment Tree**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Segment%20tree)|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Sorting & Searching**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Sorting%20and%20Searching)|    |
-| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Probabilities**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Probabilities)|    |
+| |_______|Topic Name|Solved<br>Problems|Tutorial|
+|-|-------|----------|------------------|--------|
+|✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Graph Theory**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Graph%20theory)|  ![](https://img.shields.io/badge/28-%23E60023.svg?style=flat)| |
+|✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Dynamic Programming**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Dynamic%20programming)| ![](https://img.shields.io/badge/08-%23E60023.svg?style=flat)|   |
+|✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Backtracking**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Backtracking)| ![](https://img.shields.io/badge/01-%23E60023.svg?style=flat) |  |
+|✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Mathematics**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Mathematics)| ![](https://img.shields.io/badge/10-%23E60023.svg?style=flat)|  |
+|✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Number theory**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Number%20Theory)| ![](https://img.shields.io/badge/20-%23E60023.svg?style=flat)|  |
+|✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Prefix sum**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Prefix%20sum)|![](https://img.shields.io/badge/01-%23E60023.svg?style=flat)|  |
+|✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Segment Tree**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Segment%20tree)| ![](https://img.shields.io/badge/04-%23E60023.svg?style=flat) |   |
+|✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Sorting & Searching**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Sorting%20and%20Searching)| ![](https://img.shields.io/badge/10-%23E60023.svg?style=flat)|  |
+|✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Probabilities**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Probabilities)| ![](https://img.shields.io/badge/01-%23E60023.svg?style=flat)|  |
