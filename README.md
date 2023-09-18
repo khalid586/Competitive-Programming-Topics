@@ -16,7 +16,9 @@
 
 ## <img src = "assets/cp banner.jpeg" align = "center" width = "60px" height = "40px"> Topics
 
-| |_______|Topic Name|Solved<br>Problems|Tutorial|
+> **Video Tutorial wii be added soon insha allah**
+
+| |_______|Topic Name|Solved<br>Problems|Video Tutorial|
 |-|-------|----------|------------------|--------|
 |✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Backtracking**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Backtracking)| ![](https://img.shields.io/badge/01-%23E60023.svg?style=flat) |  |
 |✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Mathematics**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Mathematics)| ![](https://img.shields.io/badge/10-%23E60023.svg?style=flat)|  |
