@@ -6,7 +6,9 @@
 
 <br>
 
-> <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "45px" height = "30px"> **This repository contains <del>all the topics</del> some of the most common topics found in <img src = "assets/mix.png" align = "center" width = "24px" height = "16px"> Competitive Programming contests.**
+<img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "45px" height = "30px">
+
+>**This repository contains <del>all the topics</del> some of the most common topics found in <img src = "assets/mix.png" align = "center" width = "24px" height = "16px"> Competitive Programming contests.**
 
 > **Combined problems that I have solved in this repository according to `Topics`.**
 **Feel free to check them out. 😉**
