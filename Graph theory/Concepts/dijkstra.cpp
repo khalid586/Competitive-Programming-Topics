@@ -24,15 +24,15 @@ void dijkstra()
 
 			if(vis[curr_edge]) continue;
 			vis[curr_edge] = 1;
-			
+
 			for(auto child:graph[curr_edge]){
-						int child_edge = child.second , child_dist = child.first;
-						
-						if( curr_dist + child_dist < dist[child_edge]){
-							dist[child_edge] = curr_dist + child_dist;
-							q.insert({dist[child_edge],child_edge});
-							path[child_edge] = curr_edge;	
-						}
+				int child_edge = child.second , child_dist = child.first;
+				
+				if( curr_dist + child_dist < dist[child_edge]){
+					dist[child_edge] = curr_dist + child_dist;
+					q.insert({dist[child_edge],child_edge});
+					path[child_edge] = curr_edge;	
+				}
 			}		
 	}
 }
