@@ -19,6 +19,7 @@
 | |_______|Topic Name|Solved<br>Problems|Tutorial|
 |-|-------|----------|------------------|--------|
 |✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Graph Theory**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Graph%20theory)|  ![](https://img.shields.io/badge/28-%23E60023.svg?style=flat)| |
+|| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |**Binary Search**| |  |
 |✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Dynamic Programming**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Dynamic%20programming)| ![](https://img.shields.io/badge/08-%23E60023.svg?style=flat)|   |
 |✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Backtracking**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Backtracking)| ![](https://img.shields.io/badge/01-%23E60023.svg?style=flat) |  |
 |✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Mathematics**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Mathematics)| ![](https://img.shields.io/badge/10-%23E60023.svg?style=flat)|  |
