@@ -11,15 +11,14 @@
 ><small>This repository contains <del>all the topics</del> some of the most common topics found in <img src = "assets/mix.png" align = "center" width = "36px" height = "24px"> Competitive Programming contests.<br><br>
 Combined problems that I have solved in this repository according to `Topics`.</small>
 
-
-**Feel free to check out.😉**
-
 <br>
 
 
 ## <img src = "assets/cp banner.jpeg" align = "center" width = "60px" height = "40px"> Topics
 
 > **Video Tutorial wii be added soon insha allah**
+
+**Check out ⬇️.😉**
 
 | |_______|Topic Name|Solved<br>Problems|Video Tutorial|
 |-|-------|----------|------------------|--------|
