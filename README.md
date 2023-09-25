@@ -6,10 +6,10 @@
 
 <br>
 
-## <img align = "center" src = "assets/purple%20work.gif"  width = "45px" height = "30px"> Overview
+## <img align = "center" src = "assets/mix.png"  width = "60px" height = "40px"> Overview
 
-><small>This repository contains <del>all the topics</del> some of the most common topics found in <img src = "assets/mix.png" align = "center" width = "36px" height = "24px"> Competitive Programming contests.<br><br>
-Combined problems that I have solved in this repository according to `Topics`.</small>
+><small>**This repository contains <del>all the topics</del> some of the most common topics found in Competitive Programming contests.<br><br>
+Combined problems that I have solved in this repository according to `Topics`**.</small>
 
 <br>
 
