@@ -4,16 +4,7 @@ using namespace __gnu_pbds;
 using namespace std;
 
 #define rep(i,a,b) for(int i = a ; i < b ; i++)
-#define endl '\n'
-void IO()
-{
-     #ifndef ONLINE_JUDGE
-          freopen( "in.txt" , "r" ,stdin);
-      //   freopen("out.txt", "w", stdout);
-      //    freopen("Error.txt","w",stderr);
-     #endif // ONLINE_JUDGE
-}
- #define int long long int
+#define int long long int
 #define all(x) x.begin(),x.end()
 
 const int N = 10;
@@ -26,7 +17,7 @@ void recur(){
      if(res.size() == n){
           ans.insert(res); return;
      }
-
+     
      rep(i,0,n){
           if(!taken[i]){
                res.push_back(i); 
@@ -44,9 +35,7 @@ void solve() {
     string s; cin >> s;
     n = s.size();
 
-
     recur(); 
-    
 
     for(auto x:ans){
           string curr;
@@ -82,7 +71,6 @@ void solve() {
 int32_t main()
 {
      std::ios::sync_with_stdio(false);cin.tie(NULL); 
-     IO();
      solve();
 
      return 0;
