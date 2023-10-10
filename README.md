@@ -38,4 +38,4 @@ Combined problems that I have solved in this repository according to `Topics`**.
 <br>
 
 # Want to contribute?
-Read the [contribution guideline](https://github.com/khalid586/Competitive-programming-Topics/blob/main/contribution.md) and make changes according to that.
+Read the [**contribution guideline**](https://github.com/khalid586/Competitive-programming-Topics/blob/main/contribution.md) and make changes according to that.
