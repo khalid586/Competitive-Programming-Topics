@@ -37,14 +37,10 @@ Combined problems that I have solved in this repository according to `Topics`**.
 
 <br>
 
-<<<<<<< HEAD
+
 # <img align = "center" alt="Coding" width="45px" src="https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif"> Want to contribute?
-Read the [**contribution guideline**](https://github.com/khalid586/Competitive-programming-Topics/blob/main/contribution.md) and make changes according to that.
-=======
-# Want to contribute?
 Read the [**contribution guideline**](https://github.com/khalid586/Competitive-programming-Topics/blob/main/contribution.md) and make changes according to that.
 
 <!-- check commit
     trial commit 
 -->
->>>>>>> 496a71ecdb5b2e9448e959c3b8bd0813796b12cd
