@@ -33,3 +33,9 @@ Combined problems that I have solved in this repository according to `Topics`**.
 || <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |**Two Pointers**| |  |
 |✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Segment Tree**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Segment%20tree)| ![](https://img.shields.io/badge/04-%23E60023.svg?style=flat) |   |
 |✅| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px"> |[**Probabilities**](https://github.com/khalid586/Competitive-programming-Topics/tree/main/Probabilities)| ![](https://img.shields.io/badge/01-%23E60023.svg?style=flat)|  |
+
+
+<br>
+
+# Want to contribute?
+Read the [contribution guideline](https://github.com/khalid586/Competitive-programming-Topics/blob/main/contribution.md) and make changes according to that.
