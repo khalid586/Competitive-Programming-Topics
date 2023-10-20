@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+#define rep(i,a,b) for(int i = a; i < b ; i++)
+
 int main(){
     string s;
     cin >> s;
@@ -17,5 +19,5 @@ int main(){
         }
     }
 
-    cout << s.size() << ‘\n’;
+    cout << s.size() << '\n';
 }
