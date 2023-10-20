@@ -8,3 +8,9 @@
 <br>
 
 [**Solution**](https://github.com/khalid586/Competitive-programming-Topics/blob/main/string%20algorithms/remove%20duplicates.cpp)
+
+<br>
+
+[**Problem**](https://practice.geeksforgeeks.org/problems/remove-common-characters-and-concatenate-1587115621/1)
+
+[**Solution**](https://github.com/khalid586/Competitive-programming-Topics/blob/main/string%20algorithms/remove%20common%20char%20%26%20concate.cpp)
