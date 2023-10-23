@@ -4,7 +4,7 @@
 
 |No|________|Concept|Details|
 |-|-|-|-|
-|**1**.| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px">|[**Generate all permutations**]()|[**Code**](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Backtracking/Concepts/Generate%20all%20permutations.cpp)|
+|**1**.| <img src = "assets/mix.png" align = "center" width = "45px" height = "30px">|**Generate all permutations**|[**Code**](https://github.com/khalid586/Competitive-programming-Topics/blob/main/Backtracking/Concepts/Generate%20all%20permutations.cpp)|
 
 <br>
 
